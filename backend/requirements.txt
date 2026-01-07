@@ -10,3 +10,7 @@ python-dotenv==1.0.0
 opennsfw2==0.10.2
 opencv-python-headless==4.8.1.78
 nudenet==3.4.2
+transformers==4.36.0
+torch==2.1.0
+torchvision==0.16.0
+timm==0.9.12
